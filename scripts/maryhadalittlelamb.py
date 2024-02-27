@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import rospy
-from haru_drums_ros_driver.msg import DrumMidiSignal
+from HaruDrumGame.msg import DrumMidiSignal
 
 pos = 0
 score = 0
